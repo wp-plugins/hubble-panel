@@ -10,8 +10,8 @@ License: GPL2
 
 define(hp_TITLE, 'HubblePanel');
 define(hp_HUBBLE_RSS, 'http://hubblesite.org/newscenter/newscenter_rss.php');
-define(hp_IMG_COUNT, '10');
-define(hp_PANEL_WIDTH, '200');
+define(hp_IMG_COUNT, '9');
+define(hp_PANEL_WIDTH, '300');
 define(hp_DIR, basename(dirname(__FILE__)));
 include_once(ABSPATH . WPINC . '/rss.php');
 
