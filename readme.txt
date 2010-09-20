@@ -21,7 +21,7 @@ Fetch images from HubbleSite NewsCenter and displays it on your blog.
 == Installation ==
 
 1. Upload the folder hubble-panel to the /wp-content/plugins/ directory
-2. Activate the plugin HubblePix through the 'Plugins' menu in WordPress
+2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Add the widget to your sidebar from Appearance->Widgets and configure the widget options.
 
 == Changelog ==
