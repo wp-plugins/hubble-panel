@@ -23,11 +23,6 @@ function widget_hpwidget_init() {
 function widget_hpwidget($args)  {
 	extract($args);	
   	$options = get_option('widget_hpwidget');
-  	if($options == false)  {
-    	$options['hp_title'] = hp_TITLE;
-    	$options['hp_panel_width'] = hp_PANEL_WIDTH;
-    	$options['hp_img_count'] = hp_IMG_COUNT;
-  	}
   	$rss = fetch_rss(hp_HUBBLE_RSS);
   	$rss_count = count($rss->items);
   	if($rss_count != 0)  {
