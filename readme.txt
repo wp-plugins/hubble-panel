@@ -1,6 +1,6 @@
 === Hubble Panel===
-Contributors: junatik 
-Tags: widget, sidebar, astronomy, hubble telescope, image
+Contributors: pagepro.com.ua
+Tags: astronomy, hubble telescope, Hubble Images
 Requires at least: 2.9.2
 Tested up to: 3.2.1
 Stable tag: 1.1
