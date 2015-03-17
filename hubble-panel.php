@@ -2,7 +2,7 @@
 
 /**
 Plugin Name: Hubble Panel
-Description: Fetch images from HubbleSite and displays it on your blog.
+Description: Displays amazing images and latest information from Hubble Space Telescope on your blog.
 Version: 1.5
 Author: Limeira Studio
 Author URI: http://www.limeirastudio.com/
@@ -86,7 +86,7 @@ class Hubble_Panel extends WP_Widget {
 	
 	function __construct()	{
 		$options = array(
-            'description'   =>  'Fetch images from HubbleSite NewsCenter and displays it on your blog.',
+            'description'   =>  'Displays amazing images and latest information from Hubble Space Telescope on your blog.',
             'name'          =>  'Hubble Panel'
         );
 		parent::__construct('hubble_panel', '', $options);

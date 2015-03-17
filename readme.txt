@@ -1,13 +1,13 @@
 === Hubble Panel===
 Contributors: LimeiraStudio 
-Tags: widget, sidebar, astronomy, hubble telescope, image
+Tags: astronomy, hubble telescope, NASA
 Requires at least: 3.0.1
 Tested up to: 4.1.1
 Stable tag: 1.5
 
 == Description ==
 
-Fetch images from HubbleSite and displays it on your blog.
+Displays amazing images and latest information from Hubble Space Telescope on your blog.
 
 == Screenshots ==
 
@@ -27,6 +27,11 @@ Fetch images from HubbleSite and displays it on your blog.
 
 == Changelog ==
 
-= 1.5 =
+= 1.0 =
 
 * Initial release
+
+= 1.5 =
+
+Replacement of deprecated functions.
+Added category and style of display items.
