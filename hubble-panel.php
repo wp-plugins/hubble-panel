@@ -3,7 +3,7 @@
 /**
 Plugin Name: Hubble Panel
 Description: Displays images and latest information from Hubble Space Telescope on your blog.
-Version: 1.5
+Version: 1.6
 Author: Limeira Studio
 Author URI: http://www.limeirastudio.com/
 License: GPL2
