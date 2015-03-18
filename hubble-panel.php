@@ -182,9 +182,9 @@ class Hubble_Panel extends WP_Widget {
 		-o-transition:-o-transform 0.5s ease-in;
 		}
 		.hubble-panel img:hover	{
-		-moz-transform:scale(1.5); 
-		-webkit-transform:scale(1.5);
-		-o-transform:scale(1.5);
+		-moz-transform:scale(1.2); 
+		-webkit-transform:scale(1.2);
+		-o-transform:scale(1.2);
 		}
 		</style>
 		<div class="hubble-panel">
