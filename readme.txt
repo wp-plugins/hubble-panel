@@ -3,7 +3,7 @@ Contributors: LimeiraStudio
 Tags: astronomy, hubble, telescope, ESA, NASA, widget, widgets, images, image, sidebar
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: 1.5
+Stable tag: 1.6
 
 == Description ==
 
@@ -33,13 +33,13 @@ Displays images and latest information from Hubble Space Telescope on your blog.
 
 = 1.5 =
 
-Replacement of deprecated functions.
-Added category and style of display items.
+* Replacement of deprecated functions.
+* Added category and style of display items.
 
 = 1.6 =
 
-Random categories new option
-Enlarge image effect
-Show/hide category title option
-Lightbox jQuery plugin included
-Markup bugs fixed
+* Random categories new option
+* Enlarge image effect
+* Show/hide category title option
+* Lightbox jQuery plugin included
+* Markup bugs fixed
