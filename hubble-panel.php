@@ -194,7 +194,7 @@ class Hubble_Panel extends WP_Widget {
 		}
 		
 		if($random_cats)	{
-			$a = reset($this->shuffle_assoc($this->feeds));
+			$a = @reset($this->shuffle_assoc($this->feeds));
 			$rss = fetch_feed($a['feed']);
 		}	else {
 			$rss = fetch_feed($this->feeds[$feed]['feed']);
