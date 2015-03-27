@@ -1,6 +1,7 @@
 === Hubble Panel===
 Contributors: LimeiraStudio 
 Tags: astronomy, astronomical, hubble, aggregation, feed, news, gallery, solar, moon, science, cosmos, cosmic, space, telescope, RSS, ESA, NASA, widget, widgets, images, image, sidebar
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLS5HQLCVS2G8
 Requires at least: 3.0.1
 Tested up to: 4.1.1
 Stable tag: 1.6
